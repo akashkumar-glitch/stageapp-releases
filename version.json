@@ -1,3 +1,3 @@
- {"version":"4.5.3","release_date":"2026-02-13","download_url":"https://github.com/akashkumar-glitch/stageapp-releases/releases/download/v4.5.3/StageApp_v4.5.3_Standalone_20260213_144025.zip","release_
-  notes":"Standalone Build System! What's New: Build standalone apps (NO Python needed), One-command build scripts, Manual Check for Updates button. Bug Fixes: Fixed Windows drag-and-drop, Better error 
-  messages, More video formats","required":false} 
+  {"version":"4.5.3","release_date":"2026-02-13","download_url":"https://github.com/akashkumar-glitch/stageapp-releases/releases/download/v4.5.3/StageApp_v4.5.3_Standalone_20260213_144025.zip","release_
+  notes":"Standalone Build System. Build standalone apps without Python. One-command build scripts. Manual Check for Updates button. Fixed Windows drag-and-drop. Better error messages. More video       
+  formats.","required":false}     
