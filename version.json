@@ -1,7 +1,7 @@
- {                                                                                                                                                                                                       
-      "version": "4.5.1",                                                                                                                                                                                 
+  {                                                                                                                                                                                                       
+      "version": "4.5.2",                                                                                                                                                                                 
       "release_date": "2026-02-13",                                                                                                                                                                       
-      "download_url": "https://github.com/akashkumar-glitch/stageapp-releases/releases/download/v4.5.1/StageApp_v4.5_PRO_20260213_113953.zip",                                                            
-      "release_notes": "Bug Fixes:\n• Fixed Windows drag-and-drop\n• Better error messages\n• More video formats (MKV, WMV, M4V)\n• Improved file handling",                                              
+      "download_url": "https://github.com/akashkumar-glitch/stageapp-releases/releases/download/v4.5.2/StageApp_v4.5_PRO_20260213_123543.zip",                                                            
+      "release_notes": "New Feature:\n• Manual 'Check for Updates' button\n\nBug Fixes:\n• Fixed Windows drag-and-drop\n• Better error messages\n• More video formats (MKV, WMV, M4V)",                   
       "required": false                                                                                                                                                                                   
-  } 
+  }   
